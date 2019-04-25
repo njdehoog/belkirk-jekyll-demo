@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Rosanne Schipper
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,7 +16,7 @@ services:
     the biotechnology sector. Niels just added a sentence.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: Content Creation Studio
 textline: |
   Belkirk College of Engineering
 
