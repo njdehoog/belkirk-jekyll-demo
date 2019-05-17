@@ -8,6 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: Alternative service
+  description: Bla
+  icon: ''
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Health
